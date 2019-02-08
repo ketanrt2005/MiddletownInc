@@ -1,0 +1,19 @@
+As a sales user,
+I want a sales force instance created with following screen tabs.
+
+1. Customized Home page (with our company logo)
+2. Accounts
+3. Opportunites
+4. Leads
+5. Contacts
+6. Campaigns
+
+Each tab will have related object as follows.
+
+Home page; Opportunity based summary report.
+Accounts: Contacts, Opportunites,Cases, Notes & Attachments.
+Opportunites: Products and Solutions, Support request (custom based on Case), Service Locations (custom), Design and Solutions (custom), Notes and Attachments
+Leads: Activits (oob)
+Contacts: OOB
+Campaigns: OON
+
