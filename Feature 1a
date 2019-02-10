@@ -1,0 +1,10 @@
+
+I want the Support Request record to be created from within Opportunties and Account
+
+Relationship to be maintained as follows
+Account to Opportunity is 1:M
+  Opportunity to Support Request is 1:M
+  Account should be lookup on Support Request record so that I can create Support Request which is only Opportunity based.
+  Every Support Request record should be mandatortily tied to an Opportunity
+  Support Request should be a tab available
+  
